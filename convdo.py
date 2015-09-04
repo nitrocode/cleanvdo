@@ -3,7 +3,7 @@
 # 	consolidate vdo files for readability and post processing
 #
 # Usage: 
-#	./convdo.py long.vdo short.vdo
+#	./convdo.py long.vdo > short.vdo
 # 
 # goals:
 # - turn each of the below goals into cmd line switches
