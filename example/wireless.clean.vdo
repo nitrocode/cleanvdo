@@ -1,0 +1,76 @@
+pause 0.1
+pause 1.0 key enter
+pause 0.9 key enter
+pause 1.8 type "admin" key enter
+pause 2.4 type "password" key enter
+pause 9.8 key enter
+pause 3.9 key enter
+pause 2.4 type "password" key enter
+pause 2.4 type "password" key enter
+pause 4.4 key y
+pause 2.2 key enter
+pause 4.1 key y
+pause 3.4 key enter
+pause 3.4 type "NSWIRELESSAPP" key enter
+pause 4.6 type "extremenetworks.com" key enter
+pause 0.1
+pause 3.2 type "10.54.149.64" key enter
+pause 4.9 type "255.255.255.0" key enter
+pause 9.2 type "10.54.149.1" key enter
+pause 2.5 key y
+pause 1.6 key enter
+pause 3.1 type "111.141.79.132" key enter
+pause 2.1 key y
+pause 0.7 key enter
+pause 3.7 type "111.141.79.133" key enter
+pause 3.3 key y
+pause 0.9 key enter
+pause 3.9 key y
+pause 0.6 key enter
+pause 2.6 key y
+pause 0.9 key enter
+pause 0.2 key N
+pause 0.4 key enter
+pause 4.9 key 6
+pause 0.4 key enter
+pause 5.0 key 1
+pause 0.8 key enter
+pause 2.3 key y
+pause 1.0 key enter
+pause 17.8 key enter
+pause 8.5 type "10-21-2015 17:26" key enter
+pause 3.0 key y
+pause 1.1 key enter
+pause 5.0 type "NSWIRELESSAPP.extremenetworks.com" key enter
+pause 12.8 type "tick.enterasys.com" key enter
+pause 2.8 key y
+pause 0.8 key enter
+pause 2.9 type "tick.enterasys.com" key enter
+pause 2.2 key y
+pause 0.9 key enter
+pause 2.4 type "tock.enterasys.com" key enter
+pause 10.8 key y
+pause 0.5 key enter
+pause 6.3 key y
+pause 1.1 key enter
+pause 4.4 key 1
+pause 0.8 key enter
+pause 4.5 type "public" key enter
+pause 3.9 type "private" key enter
+pause 3.2 key n
+pause 1.1 key enter
+pause 9.2 key y
+pause 0.6 key enter
+pause 5.9 key y
+pause 0.8 key enter
+pause 7.3 type "10.0.0.1" key enter
+pause 3.8 type "255.255.255.0" key enter
+pause 2.8 type "4090" key enter
+pause 3.5 key n
+pause 0.7 key enter
+pause 2.5 key y
+pause 0.7 key enter
+pause 1.7 key y
+pause 0.8 key enter
+pause 6.4 key 6
+pause 0.7 key enter
