@@ -1,5 +1,13 @@
 # cleanvdo
-Consolidates the output of vncdotool's vnclog
+Consolidates the output of vncdotool's [vnclog](https://help.github.com/articles/markdown-basics/)
+
+1. First record a vdo file using the vncdotool
+
+```bash
+$ vnclog -s 1.1.1.1::5997 --viewer vncviewer > wireless.vdo
+```
+
+2. Run the consolidate vdo script
 
 ```bash
 $ ./convdo.py -h
