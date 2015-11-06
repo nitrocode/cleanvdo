@@ -62,6 +62,11 @@ except:
 
 # if ~ is used then convert it to the home directory
 inputFile = results.input
+
+if not type( inputFile ) == str:
+	print( "An input file is required" )
+	sys.exit( 0 )
+
 if "~" in inputFile:
 	inputFile = inputFile.replace( "~", os.path.expanduser("~") )
 
@@ -152,7 +157,7 @@ for l in newLines:
 totalNewLines = len( newLines )
 
 printe( "Original total lines: " + str( totalLines ), True )
-printe( "New total lines: " + str( totalNewLines ), True )
-printe( "Decreased lines by: " + str( totalLines - totalNewLines ), True )
+printe( "New total lines:      " + str( totalNewLines ), True )
+printe( "Decreased lines by:   " + str( totalLines - totalNewLines ), True )
 
 f.close()
